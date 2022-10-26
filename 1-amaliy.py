@@ -1,0 +1,5 @@
+a=int(input("a="))
+b=int(input("b="))
+c=int((a+b)/2)
+d=int((a*b)**1/2)
+print(f" o'rta arifmetigi {c} o'rta geometrigi {d}")
